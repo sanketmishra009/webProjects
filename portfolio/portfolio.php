@@ -1,0 +1,352 @@
+<head>
+    <title> Sanket Mishra</title>
+    <link rel="stylesheet" href="portfolio.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        type="text/css" />
+    <!-- <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
+
+    <!-- <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css"
+        rel="stylesheet"> -->
+    <!-- <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"> -->
+    <script src="https://kit.fontawesome.com/284c8f4f5a.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="manu-toggler">
+            <div class="bar half start"></div>
+            <div class="bar"></div>
+            <div class="bar half end"></div>
+        </div>
+        <nav class="top-nav">
+            <ul class="nav-list">
+                <li>
+                    <a href="portfolio.php" class="nav-link">Home</a>
+                </li>
+                <li>
+                    <a href="#about" class="nav-link">About</a>
+                </li>
+                <li>
+                    <a href="#services" class="nav-link">Services</a>
+                </li>
+                <li>
+                    <a href="#portfolio" class="nav-link">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#experiences" class="nav-link">Experiences</a>
+                </li>
+                <li>
+                    <a href="#contact" class="nav-link">Contact</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="landing-text">
+            <h1 class="name">Sanket Mishra</h1>
+            <h6 class="">UI | UX Designer and Web developer and Database Designer and ...</h6>
+            <!-- <i class="fa fa-facebook-square"></i> -->
+        </div>
+    </header>
+    <section class="about" id="about">
+        <div class="container">
+            <div class="profile-img">
+                <img src="images/profile.jpeg" />
+            </div>
+            <div class="about-details">
+                <div class="about-heading">
+                    <h1 class="">About</h1>
+                    <h6 class="">Myself</h6>
+                </div>
+                <p class="">Generating random paragraphs can be an excellent way for writers to get their creative flow
+                    going at the beginning of the day. The writer has no idea what topic the random paragraph will be
+                    about when it appears. This forces the writer to use creativity to complete one of three common
+                    writing challenges. The writer can use the paragraph as the first one of a short story and build
+                    upon it. A second option is to use the random paragraph somewhere in a short story they create. The
+                    third option is to have the random paragraph be the ending paragraph in a short story. No matter
+                    which of these challenges is undertaken, the writer is forced to use creativity to incorporate the
+                    paragraph into their writing.
+                </p>
+                <!-- <a href="#" class="icon-link"><i class="fa fa-twitter-square"></i></a> -->
+            </div>
+            <div class="social-media">
+                <!-- <a href="#" class="icon-link"><i class="fa fa-twitter-square"></i></a> -->
+
+                <ul class="nav-list">
+                    <li>
+                        <a href="#" class="icon-link">
+                            <i class="fa fa-facebook-square"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="icon-link">
+                            <i class="fa fa-twitter-square"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="icon-link">
+                            <i class="fa fa-dribbble"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="services" id="services">
+
+        <div class="container">
+            <div class="section-heading">
+                <h1>Services</h1>
+                <h6 class="">What can I do for you ?</h6>
+            </div>
+            <div class="my-skills">
+                <div class="skills">
+                    <div class="icon-container">
+                        <i class="fa fa-layer-group"></i>
+                        <h1 class="">Web Developement</h1>
+                        <p>
+                            Generating random paragraphs can be an excellent way for writers to get their creative flow
+                            going at the beginning of the day. The writer has no idea what topic the random paragraph
+                            will be
+                            about when it appears. This forces the writer to use creativity to complete one of three
+                            common
+                            writing challenges. The writer can use the paragraph as the first one of a short story and
+                            build
+                            upon it. A second option is to use the random paragraph somewhere in a short story they
+                            create. The
+                            third option is to have the random paragraph be the ending paragraph in a short story. No
+                            matter
+                            which of these challenges is undertaken, the writer is forced to use creativity to
+                            incorporate the
+                            paragraph into their writing.
+                        </p>
+                    </div>
+                    <div class="icon-container">
+                        <i class="fa fa-layer-group"></i>
+                        <h1 class="">Web Developement</h1>
+                        <p>
+                            Generating random paragraphs can be an excellent way for writers to get their creative flow
+                            going at the beginning of the day. The writer has no idea what topic the random paragraph
+                            will be
+                            about when it appears. This forces the writer to use creativity to complete one of three
+                            common
+                            writing challenges. The writer can use the paragraph as the first one of a short story and
+                            build
+                            upon it. A second option is to use the random paragraph somewhere in a short story they
+                            create. The
+                            third option is to have the random paragraph be the ending paragraph in a short story. No
+                            matter
+                            which of these challenges is undertaken, the writer is forced to use creativity to
+                            incorporate the
+                            paragraph into their writing.
+                        </p>
+                    </div>
+                    <div class="icon-container">
+                        <i class="fa fa-layer-group"></i>
+                        <h1 class="">Web Developement</h1>
+                        <p>
+                            Generating random paragraphs can be an excellent way for writers to get their creative flow
+                            going at the beginning of the day. The writer has no idea what topic the random paragraph
+                            will be
+                            about when it appears. This forces the writer to use creativity to complete one of three
+                            common
+                            writing challenges. The writer can use the paragraph as the first one of a short story and
+                            build
+                            upon it. A second option is to use the random paragraph somewhere in a short story they
+                            create. The
+                            third option is to have the random paragraph be the ending paragraph in a short story. No
+                            matter
+                            which of these challenges is undertaken, the writer is forced to use creativity to
+                            incorporate the
+                            paragraph into their writing.
+                        </p>
+                    </div>
+                    <div class="icon-container">
+                        <i class="fa fa-layer-group"></i>
+                        <h1 class="">Web Developement</h1>
+                        <p>
+                            Generating random paragraphs can be an excellent way for writers to get their creative flow
+                            going at the beginning of the day. The writer has no idea what topic the random paragraph
+                            will be
+                            about when it appears. This forces the writer to use creativity to complete one of three
+                            common
+                            writing challenges. The writer can use the paragraph as the first one of a short story and
+                            build
+                            upon it. A second option is to use the random paragraph somewhere in a short story they
+                            create. The
+                            third option is to have the random paragraph be the ending paragraph in a short story. No
+                            matter
+                            which of these challenges is undertaken, the writer is forced to use creativity to
+                            incorporate the
+                            paragraph into their writing.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section class="portfolio" id="portfolio">
+        <div class="container">
+            <div class="section-heading">
+                <h1>Portfolio</h1>
+                <h6>Some of my recent work....</h6>
+            </div>
+            <div class="portfolio-item">
+                <div class="portfolio-img">
+                    <img src="images/portitem1.jpeg" alt="">
+                </div>
+                <div class="portfolio-description">
+                    <h1>web Developer</h1>
+                    <h6>E-commerce site</h6>
+                    <p>
+                        Generating random paragraphs can be an excellent way for writers to get their creative flow
+                        going at the beginning of the day. The writer has no idea what topic the random paragraph
+                        will be
+                        about when it appears. This forces the writer to use creativity to complete one of three
+                        common
+                        writing challenges. The writer can use the paragraph as the first one of a short story and
+                        build
+                        upon it. A second option is to use the random paragraph somewhere in a short story they
+                        create. The
+                        third option is to have the random paragraph be the ending paragraph in a short story. No
+                        matter
+                        which of these challenges is undertaken, the writer is forced to use creativity to
+                        incorporate the
+                        paragraph into their writing.
+                    </p>
+                    <a href="#" class="cta">View Detail</a>
+                </div>
+            </div>
+            <div class="portfolio-item">
+                <div class="portfolio-description">
+                    <h1>web Developer</h1>
+                    <h6>E-commerce site</h6>
+                    <p>
+                        Generating random paragraphs can be an excellent way for writers to get their creative flow
+                        going at the beginning of the day. The writer has no idea what topic the random paragraph
+                        will be
+                        about when it appears. This forces the writer to use creativity to complete one of three
+                        common
+                        writing challenges. The writer can use the paragraph as the first one of a short story and
+                        build
+                        upon it. A second option is to use the random paragraph somewhere in a short story they
+                        create. The
+                        third option is to have the random paragraph be the ending paragraph in a short story. No
+                        matter
+                        which of these challenges is undertaken, the writer is forced to use creativity to
+                        incorporate the
+                        paragraph into their writing.
+                    </p>
+                    <a href="#" class="cta">View Detail</a>
+                </div>
+                <div class="portfolio-img">
+                    <img src="images/portitem2.jpeg" alt="">
+                </div>
+            </div>
+            <div class="portfolio-item">
+                <div class="portfolio-img">
+                    <img src="images/portitem3.jpeg" alt="">
+                </div>
+                <div class="portfolio-description">
+                    <h1>web Developer</h1>
+                    <h6>E-commerce site</h6>
+                    <p>
+                        Generating random paragraphs can be an excellent way for writers to get their creative flow
+                        going at the beginning of the day. The writer has no idea what topic the random paragraph
+                        will be
+                        about when it appears. This forces the writer to use creativity to complete one of three
+                        common
+                        writing challenges. The writer can use the paragraph as the first one of a short story and
+                        build
+                        upon it. A second option is to use the random paragraph somewhere in a short story they
+                        create. The
+                        third option is to have the random paragraph be the ending paragraph in a short story. No
+                        matter
+                        which of these challenges is undertaken, the writer is forced to use creativity to
+                        incorporate the
+                        paragraph into their writing.
+                    </p>
+                    <a href="#" class="cta">View Detail</a>
+                </div>
+            </div>
+            <div class="portfolio-item">
+                <div class="portfolio-description">
+                    <h1>web Developer</h1>
+                    <h6>E-commerce site</h6>
+                    <p>
+                        Generating random paragraphs can be an excellent way for writers to get their creative flow
+                        going at the beginning of the day. The writer has no idea what topic the random paragraph
+                        will be
+                        about when it appears. This forces the writer to use creativity to complete one of three
+                        common
+                        writing challenges. The writer can use the paragraph as the first one of a short story and
+                        build
+                        upon it. A second option is to use the random paragraph somewhere in a short story they
+                        create. The
+                        third option is to have the random paragraph be the ending paragraph in a short story. No
+                        matter
+                        which of these challenges is undertaken, the writer is forced to use creativity to
+                        incorporate the
+                        paragraph into their writing.
+                    </p>
+                    <a href="#" class="cta">View Detail</a>
+                </div>
+                <div class="portfolio-img">
+                    <img src="images/portitem3.jpeg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="experience" id="experience">
+        <div class="container">
+            <div class="section-heading">
+                <h1 class="">Work Exp..</h1>
+                <h6>Past and current</h6>
+            </div>
+            <div class="timeline">
+                <ul>
+                    <li class="date" data-date="2011-Present">
+                        <h1>My computer</h1>
+                    </li>
+                    <li class="date" data-date="2009-2011">
+                        <h1>My computer</h1>
+                    </li>
+                    <li class="date" data-date="2007-2009">
+                        <h1>My computer</h1>
+                    </li>
+                    <li class="date" data-date="2003-2007">
+                        <h1>My computer</h1>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="contact" id="contact">
+        <div class="container">
+            <div class="section-heading">
+                <h1>contact</h1>
+                <h6>Let's fuck together.</h6>
+            </div>
+            <form action="">
+                <label for="name">Name:</label>
+                <input type="text" id="id" name="name" placeholder="naa bharti kara" required>
+                <label for="email">Email:</label>
+                <input type="email" id="id" name="email" placeholder="email bharti kara" required>
+                <select name="services" id="services">
+                    <option value="">WebDev</option>
+                    <option value="">WebDev</option>
+                    <option value="">WebDev</option>
+                    <option value="">WebDev</option>
+                </select>
+                <label for="subject">Subject:</label>
+                <textarea name="subject" id="subject" cols="30" rows="10"></textarea>
+                <input type="submit">
+            </form>
+        </div>
+    </section>
+
+
+
+
+
+</body>
